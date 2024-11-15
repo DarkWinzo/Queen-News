@@ -14,7 +14,7 @@
   },
   "license": "ISC",
   "dependencies": {
-    "@whiskeysockets/baileys": "6.6.0",
+    "@whiskeysockets/baileys": "latest",
     "@hapi/boom": "^10.0.1",
     "cheerio": "^1.0.0-rc.12",
     "dotenv": "^16.3.1",
