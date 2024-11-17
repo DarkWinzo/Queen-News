@@ -4,8 +4,8 @@
   "description": "Queen News bot coded by DarkWinzo",
   "main": "index.js",
   "scripts": {
-    "start": "npm install && node .",
-    "test": "npm start"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "owner": {
     "name": "DarkWinzo",
